@@ -83,7 +83,7 @@ autoComplete에서는 재사용에 좀 더 초점을 두어 검색창 border foc
 class 나누는 것이 익숙치 않아 어려웠다. 크게 slider와 cardMenu 부분으로 나누려 했지만 slider class가 너무 무거워지는 것 같아 sliderBtn구현 부분을 다른 class로 분리했다. 클래스의 핵심 개념을 이해하는 것과 코드에 반영하는 것은 아직까지 못하고 있는 것 같다. 앞으로 class에 대한 이해가 좀 더 필요할 것 같다.
 
 ### 이미지
-![](https://imgur.com/FwBmarN)
+![](./images/carousel.gif)
 
 ## 프로젝트 2주차
 
@@ -173,5 +173,4 @@ class 나누는 것이 익숙치 않아 어려웠다. 크게 slider와 cardMenu 
    이번에는 재사용을 생각하며 구현해봤는데 생각보다 너무 어려웠다. 지금까지 재사용을 생각하며 구현한 적이 없었는데 이번 미션을 통해서 너무 큰 깨달음을 얻은 것 같다. 
    
    ## 이미지
-   ![](https://imgur.com/YsOztKQ)
-   
+   ![](./images/검색.gif)
