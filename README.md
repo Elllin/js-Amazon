@@ -61,6 +61,8 @@ autoComplete에서는 재사용에 좀 더 초점을 두어 검색창 border foc
 
 ### 코드리뷰 받은 부분
 
+[코드리뷰](https://github.com/code-squad/javascript-amazon/pull/129)
+
 1. 잘된 점
 
    - 메서드들 이름은 구체적으로 잘 표현
@@ -120,6 +122,8 @@ class 나누는 것이 익숙치 않아 어려웠다. 크게 slider와 cardMenu 
 
 ### 코드리뷰
 
+[코드리뷰](https://github.com/code-squad/javascript-amazon/pull/129)
+
 1. class는 네이밍을 어떻게 해야 할까 하는 고민
 
 - 보통 너무 구체적이지 않는 명사로 표현
@@ -155,6 +159,8 @@ class 나누는 것이 익숙치 않아 어려웠다. 크게 slider와 cardMenu 
 - fetch API 활용
 
 ## 코드리뷰
+
+[코드리뷰](https://github.com/code-squad/javascript-amazon/pull/172)
 
 1. 잘된 점
 
